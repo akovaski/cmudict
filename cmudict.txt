@@ -109152,9 +109152,9 @@ series' S IH1 R IY0 Z
 serilda S ER0 IY1 L D AH0
 serino S ER0 IY1 N OW0
 serio S IY1 R IY0 OW0
-serious S IH1 R IY0 AH0 S
-seriously S IH1 R IY0 AH0 S L IY0
-seriousness S IH1 R IY0 AH0 S N AH0 S
+serious S IY1 R IY0 AH0 S
+seriously S IY1 R IY0 AH0 S L IY0
+seriousness S IY1 R IY0 AH0 S N AH0 S
 serle S ER1 AH0 L
 serlin S ER1 L IH0 N
 serling S ER1 L IH0 NG
