@@ -4429,10 +4429,10 @@ annuities AH0 N UW1 IH0 T IY0 Z
 annuity AH0 N UW1 AH0 T IY0
 annuity(2) AH0 N UW1 IH0 T IY0
 annuity(3) AH0 N Y UW1 IH0 T IY0
-annul AE1 N AH0 L
+annul AH1 N AH0 L
 annular AE1 N Y AH0 L ER0
-annulled AE1 N AH0 L D
-annulment AE1 N AH0 L M AH0 N T
+annulled AH1 N AH0 L D
+annulment AH1 N AH0 L M AH0 N T
 annum AE1 N AH0 M
 annunciata AA0 N UW0 N CH AA1 T AH0
 annunziata AA0 N UW0 N Z IY2 AA1 T AH0
