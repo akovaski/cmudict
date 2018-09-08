@@ -29700,6 +29700,7 @@ defined D IH0 F AY1 N D
 defines D IH0 F AY1 N Z
 defining D IH0 F AY1 N IH0 NG
 definite D EH1 F AH0 N AH0 T
+definite(2) D EH1 F AH0 N IH0 T
 definitely D EH1 F AH0 N AH0 T L IY0
 definition D EH2 F AH0 N IH1 SH AH0 N
 definitions D EH2 F AH0 N IH1 SH AH0 N Z
