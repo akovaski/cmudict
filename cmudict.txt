@@ -87095,7 +87095,7 @@ ontogeny AA0 N T AA1 JH AH0 N IY0
 ontological AA2 N T AH0 L AA1 JH IH0 K AH0 L
 ontology AA0 N T AA1 L AH0 JH IY0
 onus OW1 N AH0 S
-onward AO1 N W ER0 D
+onward AA1 N W ER0 D
 onwards AA1 N W ER0 D Z
 onyx AA1 N IH0 K S
 oodle UW1 D AH0 L
